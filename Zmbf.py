@@ -3,7 +3,7 @@
 # Made With ❤️ By Zehan Purnama Project
 # Update V0.1
 
-# Copyright© Dapunta ID 2021
+# Copyright© Zehan Purnama ID 2021
 # 100% Open Source Code
 
 # Author : Zehan Purnama A.
@@ -54,9 +54,9 @@ _U_ = "\x1b[0;95m" # Ungu
 ### Logo
 _logo_line_1_ = ('%s ___  __  __ ___ ___ '%(_P_))
 _logo_line_2_ = ('%s|   \|  \/  | _ ) __| %s┌─────────────────────────┐'%(_P_,_U_))
-_logo_line_3_ = ('%s| |) | |\/| | _ \ _|  %s│   %s• Code By Zhan •   %s│'%(_P_,_U_,_P_,_U_))
-_logo_line_4_ = ('%s|___/|_|  |_|___/_|   %s│ %sGithub.com/ZehanPurnamma1/Zmbf %s│'%(_P_,_U_,_P_,_U_))
-_logo_line_5_ = ('%s XNSCODE Team 2021    └─────────────────────────┘'%(_U_))──┘'%(_U_))
+_logo_line_3_ = ('%s| |) | |\/| | _ \ _|  %s│   %s• Code By Dapunta •   %s│'%(_P_,_U_,_P_,_U_))
+_logo_line_4_ = ('%s|___/|_|  |_|___/_|   %s│ %sGithub.com/Dapunta/dmbf %s│'%(_P_,_U_,_P_,_U_))
+_logo_line_5_ = ('%s XNSCODE Team 2021    └─────────────────────────┘'%(_U_))
 def _my_logo_():
     _dapunta_cici_(_logo_line_1_)
     _dapunta_cici_(_logo_line_2_)
