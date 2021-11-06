@@ -14,7 +14,7 @@ $ pip install requests
 $ pip install bs4
 $ git clone https://github.com/ZehanPurnamma1/Zmbf
 
-#Run Tools
+# Run Tool
 $ cd Zmbf
 $ git pull
 $ python Zmbf.py
