@@ -3,6 +3,7 @@
 $ termux-setup-storage  
    • Enter  
    • Ketik y Atau Pilih Izinkan  
+
 $ termux-change-repo
    • Pilih Game Repository
       - Klik OK
